@@ -1,0 +1,359 @@
+# mapping from postgresql db to triplestore
+#
+# March 2017 Frank Dankers, adapted from design Johan van Soest
+# August 2017 Frank Dankers, Timo Deist, adapted from design Frank Dankers
+
+@prefix map: <> .
+@prefix roo:<http://www.cancerdata.org/roo/>.
+@prefix ncit:<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#> .
+@prefix jdbc: <http://d2rq.org/terms/jdbc/> .
+@prefix uo: <http://purl.obolibrary.org/obo/>.
+@prefix icd: <http://purl.bioontology.org/ontology/ICD10/>.
+@prefix icdcm: <http://purl.bioontology.org/ontology/ICD10CM/>.
+@prefix time: <http://www.w3.org/2006/time#>.
+@prefix ctcae: <http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#>.
+@prefix fma: <http://purl.org/sig/ont/fma/>.
+
+############################################
+# CAT db connection
+############################################
+
+map:database a d2rq:Database;
+	d2rq:jdbcDriver "org.postgresql.Driver";
+	d2rq:jdbcDSN "jdbc:postgresql://localhost:5432/radiomics";
+	d2rq:username "postgres";
+	d2rq:password "postgres";
+	.
+	
+############################################
+# Patient
+############################################
+	
+# define patient classmap
+map:patient a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "patient_@@interobs.patient@@";
+	d2rq:class ncit:C16960;	 #patient
+	.
+	
+# link patient to label value
+map:patientLabel a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:patient;
+	d2rq:property rdfs:label;
+	d2rq:pattern "patient_@@interobs.patient@@";
+	d2rq:datatype xsd:String;
+	.
+
+	
+############################################
+# Biological sex
+############################################
+#create a biological sex object
+map:patient_sex_obj a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "sex_@@interobs.patient@@";
+	.
+	
+# Map the sex to the patient instance
+map:patient_sex_uri_obj a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:patient;
+	d2rq:property roo:100018; #has biological sex
+	d2rq:refersToClassMap map:patient_sex_obj;
+	.
+	
+# Link to the gender object of the NCI thesaurus
+map:patient_sex_uri a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:patient_sex_obj;
+	d2rq:property rdf:type;
+	d2rq:uriColumn "interobs.sex";
+	d2rq:translateWith map:sexMapping;
+	.
+	
+#create mapping between gender and NCI code
+map:sexMapping a d2rq:TranslationTable;
+    d2rq:translation [ d2rq:databaseValue "F"; d2rq:rdfValue ncit:C16576; ];
+	d2rq:translation [ d2rq:databaseValue "M"; d2rq:rdfValue ncit:C20197; ];
+	.
+
+	
+############################################
+# Diagnosis (this will be hard coded into the rdf)
+############################################
+	
+# define diagnosis classmap
+	map:diagnosis a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "diagnosis_@@interobs.patient@@";
+	d2rq:class ncit:2926;					#Non small cell carcinoma
+	.
+	
+# link patient and diagnosis via hasDisease
+map:hasDiagnosis a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:patient;
+	d2rq:property roo:100008;				#has_neoplasm
+	d2rq:refersToClassMap map:diagnosis;
+	.
+
+
+############################################
+# Age at surgery
+############################################
+	
+# define ageDiagnosis classmap
+map:ageDiagnosis a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "ageDiagnosis_@@interobs.patient@@";
+	d2rq:class roo:100002;					#age_at_diagnosis but actually we want surgery
+	.
+
+# link ageDiagnosis and diagnosis via diagnosisHasAgeDiagnosis
+map:diagnosisHasAgeDiagnosis a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:ageDiagnosis;
+	d2rq:property roo:100038;				#is_when
+	d2rq:refersToClassMap map:diagnosis;
+	.
+	
+# link patient and ageDiagnosis via patientHasAgeDiagnosis
+map:patientHasAgeDiagnosis a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:patient;
+	d2rq:property roo:100016;				#has_age_at_diagnosis
+	d2rq:refersToClassMap map:ageDiagnosis;
+	.
+	
+# define ageDiagnosisUnit classmap
+map:ageDiagnosisUnit a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "ageDiagnosisUnit_@@interobs.patient@@";
+	d2rq:class uo:UO_0000036;				#unit of year
+	.
+	
+# link ageDiagnosis and ageDiagnosisUnit via ageDiagnosisHasUnit
+map:ageDiagnosisHasUnit a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:ageDiagnosis;
+	d2rq:property roo:100027;				#has_unit
+	d2rq:refersToClassMap map:ageDiagnosisUnit;
+	.
+	
+# value ageDiagnosis
+map:ageDiagnosisValue a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:ageDiagnosis;
+	d2rq:property roo:100042;				#has_value
+	d2rq:column "interobs.age";
+	d2rq:datatype xsd:int;
+	.
+
+	
+############################################
+# clinical TNM
+############################################
+
+# define clininal TNM classmap
+map:cTNM a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "cTNM_@@interobs.patient@@";
+	d2rq:class ncit:C48881;					#Clinical TNM Finding
+	.
+	
+# link diagnosis and clinTNM via diseaseHasTNM
+map:diagnosisHasTNM a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:diagnosis;
+	d2rq:property roo:100243;				#has_clinical_stage
+	d2rq:refersToClassMap map:cTNM;
+	.
+
+
+############################################
+# clinical T stage
+############################################
+
+# define clinical T-stage classmap
+map:cT a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "cT_@@interobs.patient@@";
+	.
+	
+# link cTNM and cT via cTNMhascT
+map:cTNMhascT a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:cTNM;
+	d2rq:property roo:100244;				#has_clinical_t_stage
+	d2rq:refersToClassMap map:cT;
+	.
+	
+# link cT with cTmapping translation table via cThasMapping
+map:cThasMapping a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:cT;
+	d2rq:property rdf:type;
+	d2rq:uriColumn "interobs.tstage";
+	d2rq:translateWith map:cTmapping;
+	.
+	
+# define cTmapping translation table
+map:cTmapping a d2rq:TranslationTable;
+	d2rq:translation [ d2rq:databaseValue "T0"; d2rq:rdfValue ncit:C48719; ];	#T0 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T1"; d2rq:rdfValue ncit:C48720; ];	#T1 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T1a"; d2rq:rdfValue ncit:C48721; ];	#T1a Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T1b"; d2rq:rdfValue ncit:C48722; ];	#T1b Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T2"; d2rq:rdfValue ncit:C48724; ];	#T2 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T2a"; d2rq:rdfValue ncit:C48725; ];	#T2a Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T2b"; d2rq:rdfValue ncit:C48726; ];	#T2b Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T3"; d2rq:rdfValue ncit:C48728; ];	#T3 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "T4"; d2rq:rdfValue ncit:C48732; ];	#T4 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "TX"; d2rq:rdfValue ncit:C48737; ];	#TX Stage Finding
+	d2rq:translation [ d2rq:databaseValue "Tis"; d2rq:rdfValue ncit:C48738; ];	#Tis Stage Finding
+    .
+	
+	
+############################################
+# clinical N stage
+############################################
+
+# define clinical N-stage classmap
+map:cN a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "cN_@@interobs.patient@@";
+	.
+	
+# link cTNM and cN via cTNMhasN
+map:cTNMhasN a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:cTNM;
+	d2rq:property roo:100242;				#has_clinical_n_stage
+	d2rq:refersToClassMap map:cN;
+	.
+	
+# link cN with cNmapping translation table via cNhasMapping
+map:cNhasMapping a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:cN;
+	d2rq:property rdf:type;
+	d2rq:uriColumn "interobs.nstage";
+	d2rq:translateWith map:cNmapping;
+	.
+	
+# define cNmapping translation table
+map:cNmapping a d2rq:TranslationTable;
+	d2rq:translation [ d2rq:databaseValue "N0"; d2rq:rdfValue ncit:C48705; ];	#N0 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "N1"; d2rq:rdfValue ncit:C48706; ];	#N1 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "N2"; d2rq:rdfValue ncit:C48786; ];	#N2 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "N3"; d2rq:rdfValue ncit:C48714; ];	#N3 Stage Finding
+    .
+	
+	
+############################################
+# clinical M stage
+############################################
+
+# define clinical M-stage classmap
+map:cM a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "cM_@@interobs.patient@@";
+	.
+	
+# link cTNM and cM via cTNMhasM
+map:cTNMhasM a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:cTNM;
+	d2rq:property roo:100241;				#has_clinical_m_stage
+	d2rq:refersToClassMap map:cM;
+	.
+	
+# link cM with cMmapping translation table via cMhasMapping
+map:cMhasMapping a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:cM;
+	d2rq:property rdf:type;
+	d2rq:uriColumn "interobs.mstage";
+	d2rq:translateWith map:cMmapping;
+	.
+	
+# define cMmapping translation table
+map:cMmapping a d2rq:TranslationTable;
+	d2rq:translation [ d2rq:databaseValue "M0"; d2rq:rdfValue ncit:C48699; ];	#M0 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "M1"; d2rq:rdfValue ncit:C48700; ];	#M1 Stage Finding
+	d2rq:translation [ d2rq:databaseValue "M1a"; d2rq:rdfValue ncit:C48701; ];	#M1a Stage Finding
+	d2rq:translation [ d2rq:databaseValue "M1b"; d2rq:rdfValue ncit:C48702; ];	#M1b Stage Finding
+	d2rq:translation [ d2rq:databaseValue "M1c"; d2rq:rdfValue ncit:C48703; ];	#M1c Stage Finding
+    .
+
+
+############################################
+# clinical overall stage (AJCC unknown edition)
+############################################
+
+# define clinical overall stage classmap
+map:ajccstage a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "ajccstage_@@interobs.patient@@";
+	.
+	
+# link diagnosis and ajccstage via diagnosisHasAJCCstage
+map:diagnosisHasAJCCstage a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:diagnosis;
+	d2rq:property roo:100394;				#has_overall_stage
+	d2rq:refersToClassMap map:ajccstage;
+	.
+	
+# link ajccstage with ajccstageMapping translation table via ajccstageHasMapping
+map:ajccstageHasMapping a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:ajccstage;
+	d2rq:property rdf:type;
+	d2rq:uriColumn "interobs.ajccstage";
+	d2rq:translateWith map:ajccstageMapping;
+	.
+	
+# define ajccstageMapping translation table
+map:ajccstageMapping a d2rq:TranslationTable;
+	d2rq:translation [ d2rq:databaseValue "0"; d2rq:rdfValue ncit:C28051; ];	#Stage 0
+	d2rq:translation [ d2rq:databaseValue "I"; d2rq:rdfValue ncit:C27966; ];	#Stage I
+	d2rq:translation [ d2rq:databaseValue "Ia"; d2rq:rdfValue ncit:C27975; ];	#Stage Ia
+	d2rq:translation [ d2rq:databaseValue "Ib"; d2rq:rdfValue ncit:C27976; ];	#Stage Ib
+	d2rq:translation [ d2rq:databaseValue "II"; d2rq:rdfValue ncit:C28054; ];	#Stage II
+	d2rq:translation [ d2rq:databaseValue "IIa"; d2rq:rdfValue ncit:C27967; ];	#Stage IIa
+	d2rq:translation [ d2rq:databaseValue "IIb"; d2rq:rdfValue ncit:C27968; ];	#Stage IIb
+	d2rq:translation [ d2rq:databaseValue "III"; d2rq:rdfValue ncit:C27970; ];	#Stage III
+	d2rq:translation [ d2rq:databaseValue "IIIa"; d2rq:rdfValue ncit:C27977; ];	#Stage IIIa
+	d2rq:translation [ d2rq:databaseValue "IIIb"; d2rq:rdfValue ncit:C27978; ];	#Stage IIIb
+	d2rq:translation [ d2rq:databaseValue "IV"; d2rq:rdfValue ncit:C27971; ];	#Stage IV
+    .
+	
+
+############################################
+# Overall survival time in days
+############################################
+
+#define a survival classmap
+map:survival a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "survival_@@interobs.patient@@";
+	d2rq:class roo:100063;					#survival class
+	.
+
+#link patient to survival via patientHasSurvival
+map:patientHasSurvival a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:patient;
+	d2rq:property roo:100026;				#has_survival
+	d2rq:refersToClassMap map:survival;
+	.
+
+#define survivalUnits classmap
+map:survivalUnits a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "survivalUnits_@@interobs.patient@@";
+	d2rq:class uo:UO_0000033;				#day
+	.
+	
+#link survival to survivalUnits via hasSurvivalUnits
+map:hasSurvivalUnits a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:survival;
+	d2rq:property roo:100027;				#has_unit
+	d2rq:refersToClassMap map:survivalUnits;
+	.
+
+#insert value for survival
+map:survivalValue a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:survival;
+	d2rq:property roo:100042;				#has_value
+	d2rq:column "interobs.survival";
+	d2rq:datatype xsd:int;
+	.
+
