@@ -1,0 +1,2000 @@
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_Median> a <http://www.radiomics.org/RO/0057> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_gldm_SmallDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0144> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_LargeAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0130> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_ngtdm_Contrast> a <http://www.radiomics.org/RO/0158> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Sphericity> a <http://www.radiomics.org/RO/0008> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_10Percentile> a <http://www.radiomics.org/RO/0059> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_Energy> a <http://www.radiomics.org/RO/0050> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_MeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0065> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_firstorder_Variance> a <http://www.radiomics.org/RO/0036> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Idm> a <http://www.radiomics.org/RO/0000> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_SumAverage> a <http://www.radiomics.org/RO/0089> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_LongRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0112> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Kurtosis> a <http://www.radiomics.org/RO/0056> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Median> a <http://www.radiomics.org/RO/0057> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_gldm_SmallDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_LongRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0112> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_LargeAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0130> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_SizeZoneNonUniformityNormalized> a <http://www.radiomics.org/RO/0134> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_ngtdm_Busyness> a <http://www.radiomics.org/RO/0159> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_Sphericity> a <http://www.radiomics.org/RO/0008> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_Mean> a <http://www.radiomics.org/RO/0053> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_MeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0065> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_firstorder_Variance> a <http://www.radiomics.org/RO/0036> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Idm> a <http://www.radiomics.org/RO/0000> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_gldm_SmallDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0144> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_SizeZoneNonUniformityNormalized> a <http://www.radiomics.org/RO/0134> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_ngtdm_Contrast> a <http://www.radiomics.org/RO/0158> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_Energy> a <http://www.radiomics.org/RO/0050> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_Kurtosis> a <http://www.radiomics.org/RO/0056> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_Mean> a <http://www.radiomics.org/RO/0053> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_SumAverage> a <http://www.radiomics.org/RO/0089> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_gldm_SmallDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_ngtdm_Busyness> a <http://www.radiomics.org/RO/0159> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_10Percentile> a <http://www.radiomics.org/RO/0059> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Energy> a <http://www.radiomics.org/RO/0050> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Kurtosis> a <http://www.radiomics.org/RO/0056> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Mean> a <http://www.radiomics.org/RO/0053> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_MeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0065> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Median> a <http://www.radiomics.org/RO/0057> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_firstorder_Variance> a <http://www.radiomics.org/RO/0036> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Idm> a <http://www.radiomics.org/RO/0000> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_SumAverage> a <http://www.radiomics.org/RO/0089> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_SmallDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_gldm_SmallDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0144> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_LongRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0112> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_LargeAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0130> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_SizeZoneNonUniformityNormalized> a <http://www.radiomics.org/RO/0134> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_ngtdm_Busyness> a <http://www.radiomics.org/RO/0159> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_ngtdm_Contrast> a <http://www.radiomics.org/RO/0158> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Sphericity> a <http://www.radiomics.org/RO/0008> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_10Percentile> a <http://www.radiomics.org/RO/0059> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Energy> a <http://www.radiomics.org/RO/0050> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Kurtosis> a <http://www.radiomics.org/RO/0056> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Mean> a <http://www.radiomics.org/RO/0053> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_MeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0065> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Median> a <http://www.radiomics.org/RO/0057> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_firstorder_Variance> a <http://www.radiomics.org/RO/0036> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Idm> a <http://www.radiomics.org/RO/0000> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_SumAverage> a <http://www.radiomics.org/RO/0089> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_SmallDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_gldm_SmallDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0144> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_LongRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0112> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_LargeAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0130> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_SizeZoneNonUniformityNormalized> a <http://www.radiomics.org/RO/0134> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_ngtdm_Busyness> a <http://www.radiomics.org/RO/0159> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_ngtdm_Contrast> a <http://www.radiomics.org/RO/0158> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Sphericity> a <http://www.radiomics.org/RO/0008> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_10Percentile> a <http://www.radiomics.org/RO/0059> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Energy> a <http://www.radiomics.org/RO/0050> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Kurtosis> a <http://www.radiomics.org/RO/0056> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Mean> a <http://www.radiomics.org/RO/0053> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_MeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0065> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Median> a <http://www.radiomics.org/RO/0057> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_firstorder_Variance> a <http://www.radiomics.org/RO/0036> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Idm> a <http://www.radiomics.org/RO/0000> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_SumAverage> a <http://www.radiomics.org/RO/0089> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_SmallDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_gldm_SmallDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0144> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_LongRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0112> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_LargeAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0130> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_SizeZoneNonUniformityNormalized> a <http://www.radiomics.org/RO/0134> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_ngtdm_Busyness> a <http://www.radiomics.org/RO/0159> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_ngtdm_Contrast> a <http://www.radiomics.org/RO/0158> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Sphericity> a <http://www.radiomics.org/RO/0008> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_10Percentile> a <http://www.radiomics.org/RO/0059> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Energy> a <http://www.radiomics.org/RO/0050> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Kurtosis> a <http://www.radiomics.org/RO/0056> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Mean> a <http://www.radiomics.org/RO/0053> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_MeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0065> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Median> a <http://www.radiomics.org/RO/0057> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_firstorder_Variance> a <http://www.radiomics.org/RO/0036> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Idm> a <http://www.radiomics.org/RO/0000> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_SumAverage> a <http://www.radiomics.org/RO/0089> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_SmallDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_gldm_SmallDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0144> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_LongRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0112> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_LargeAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0130> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_SizeZoneNonUniformityNormalized> a <http://www.radiomics.org/RO/0134> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_ngtdm_Busyness> a <http://www.radiomics.org/RO/0159> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_ngtdm_Contrast> a <http://www.radiomics.org/RO/0158> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Sphericity> a <http://www.radiomics.org/RO/0008> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_10Percentile> a <http://www.radiomics.org/RO/0059> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_90Percentile> a <http://www.radiomics.org/RO/0060> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Energy> a <http://www.radiomics.org/RO/0050> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Entropy> a <http://www.radiomics.org/RO/0070> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_InterquartileRange> a <http://www.radiomics.org/RO/0063> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Kurtosis> a <http://www.radiomics.org/RO/0056> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Maximum> a <http://www.radiomics.org/RO/0061> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Mean> a <http://www.radiomics.org/RO/0053> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_MeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0065> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Median> a <http://www.radiomics.org/RO/0057> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Minimum> a <http://www.radiomics.org/RO/0058> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Range> a <http://www.radiomics.org/RO/0064> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_RobustMeanAbsoluteDeviation> a <http://www.radiomics.org/RO/0066> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_RootMeanSquared> a <http://www.radiomics.org/RO/123456> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Skewness> a <http://www.radiomics.org/RO/0055> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_StandardDeviation> a <http://www.radiomics.org/RO/1245679> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_TotalEnergy> a <http://www.radiomics.org/RO/8765372> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Uniformity> a <http://www.radiomics.org/RO/0071> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_firstorder_Variance> a <http://www.radiomics.org/RO/0036> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Autocorrelation> a <http://www.radiomics.org/RO/0099> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_ClusterProminence> a <http://www.radiomics.org/RO/0103> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_ClusterShade> a <http://www.radiomics.org/RO/0102> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_ClusterTendency> a <http://www.radiomics.org/RO/0100> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Contrast> a <http://www.radiomics.org/RO/0093> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Correlation> a <http://www.radiomics.org/RO/0098> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_DifferenceAverage> a <http://www.radiomics.org/RO/0086> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_DifferenceEntropy> a <http://www.radiomics.org/RO/0088> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_DifferenceVariance> a <http://www.radiomics.org/RO/0087> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Dissimilarity> a <http://www.radiomics.org/RO/0094> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Homogeneity1> a <http://www.radiomics.org/RO/98765734> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Homogeneity2> a <http://www.radiomics.org/RO/78953463> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Id> a <http://www.radiomics.org/RO/0095> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Idm> a <http://www.radiomics.org/RO/0000> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Idmn> a <http://www.radiomics.org/RO/0001> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Idn> a <http://www.radiomics.org/RO/0096> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Imc1> a <http://www.radiomics.org/RO/0105> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_Imc2> a <http://www.radiomics.org/RO/0106> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_InverseVariance> a <http://www.radiomics.org/RO/0097> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_JointAverage> a <http://www.radiomics.org/RO/0083> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_JointEnergy> a <http://www.radiomics.org/RO/968732935> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_JointEntropy> a <http://www.radiomics.org/RO/0085> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_MaximumProbability> a <http://www.radiomics.org/RO/0082> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_SumAverage> a <http://www.radiomics.org/RO/0089> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_SumEntropy> a <http://www.radiomics.org/RO/0091> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glcm_SumSquares> a <http://www.radiomics.org/RO/0090> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_DependenceEntropy> a <http://www.radiomics.org/RO/0155> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_DependenceNonUniformity> a <http://www.radiomics.org/RO/0150> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_DependenceNonUniformityNormalized> a <http://www.radiomics.org/RO/0151> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_DependenceVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0148> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0149> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_GrayLevelVariance> a <http://www.radiomics.org/RO/0154> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_HighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_LargeDependenceEmphasis> a <http://www.radiomics.org/RO/0141> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_LargeDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0147> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_LargeDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0146> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_LowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0142> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_SmallDependenceEmphasis> a <http://www.radiomics.org/RO/0140> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_SmallDependenceHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0145> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_gldm_SmallDependenceLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0144> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0114> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0115> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_HighGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0109> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_LongRunEmphasis> a <http://www.radiomics.org/RO/0107> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_LongRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0113> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_LongRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0112> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_LowGrayLevelRunEmphasis> a <http://www.radiomics.org/RO/0108> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_RunEntropy> a <http://www.radiomics.org/RO/0121> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_RunLengthNonUniformity> a <http://www.radiomics.org/RO/0116> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_RunLengthNonUniformityNormalized> a <http://www.radiomics.org/RO/0117> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_RunPercentage> a <http://www.radiomics.org/RO/0118> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_RunVariance> a <http://www.radiomics.org/RO/0120> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_ShortRunEmphasis> a <http://www.radiomics.org/RO/0003> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_ShortRunHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0111> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glrlm_ShortRunLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0110> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_GrayLevelNonUniformity> a <http://www.radiomics.org/RO/0131> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_GrayLevelNonUniformityNormalized> a <http://www.radiomics.org/RO/0132> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_GrayLevelVariance> a <http://www.radiomics.org/RO/0119> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_HighGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_LargeAreaEmphasis> a <http://www.radiomics.org/RO/0124> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_LargeAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0130> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_LargeAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0129> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_LowGrayLevelZoneEmphasis> a <http://www.radiomics.org/RO/0125> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_SizeZoneNonUniformity> a <http://www.radiomics.org/RO/0133> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_SizeZoneNonUniformityNormalized> a <http://www.radiomics.org/RO/0134> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_SmallAreaEmphasis> a <http://www.radiomics.org/RO/0123> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_SmallAreaHighGrayLevelEmphasis> a <http://www.radiomics.org/RO/0128> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_SmallAreaLowGrayLevelEmphasis> a <http://www.radiomics.org/RO/0127> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_ZoneEntropy> a <http://www.radiomics.org/RO/0138> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_ZonePercentage> a <http://www.radiomics.org/RO/0135> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_glszm_ZoneVariance> a <http://www.radiomics.org/RO/0137> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_ngtdm_Busyness> a <http://www.radiomics.org/RO/0159> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_ngtdm_Coarseness> a <http://www.radiomics.org/RO/0157> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_ngtdm_Complexity> a <http://www.radiomics.org/RO/0160> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_ngtdm_Contrast> a <http://www.radiomics.org/RO/0158> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_ngtdm_Strength> a <http://www.radiomics.org/RO/0161> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Compactness1> a <http://www.radiomics.org/RO/0005> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Compactness2> a <http://www.radiomics.org/RO/0006> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Elongation> a <http://www.radiomics.org/RO/0016> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Flatness> a <http://www.radiomics.org/RO/0017> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_LeastAxis> a <http://www.radiomics.org/RO/0015> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_MajorAxis> a <http://www.radiomics.org/RO/0013> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Maximum2DDiameterColumn> a <http://www.radiomics.org/RO/8765479> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Maximum2DDiameterRow> a <http://www.radiomics.org/RO/9765436> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Maximum2DDiameterSlice> a <http://www.radiomics.org/RO/00909878> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Maximum3DDiameter> a <http://www.radiomics.org/RO/0012> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_MinorAxis> a <http://www.radiomics.org/RO/0014> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_SphericalDisproportion> a <http://www.radiomics.org/RO/0007> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Sphericity> a <http://www.radiomics.org/RO/0008> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_SurfaceArea> a <http://www.radiomics.org/RO/098674398> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_SurfaceVolumeRatio> a <http://www.radiomics.org/RO/0004> .
+
+<http://localhost/rdf/feature_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29_original_shape_Volume> a <http://www.radiomics.org/RO/1006> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28AB%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28DR%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28LB%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28RW%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagespace_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29> a <http://www.cancerdata.org/roo/100067> .
+
+<http://localhost/rdf/imagevolume_1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582_GTV-1vis%28JB%29> a <http://www.radiomics.org/RO/0271> .
+
+<http://localhost/rdf/imagevolume_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28AB%29> a <http://www.radiomics.org/RO/0271> .
+
+<http://localhost/rdf/imagevolume_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28DR%29> a <http://www.radiomics.org/RO/0271> .
+
+<http://localhost/rdf/imagevolume_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28JB%29> a <http://www.radiomics.org/RO/0271> .
+
+<http://localhost/rdf/imagevolume_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28LB%29> a <http://www.radiomics.org/RO/0271> .
+
+<http://localhost/rdf/imagevolume_1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403_GTV-1vis%28RW%29> a <http://www.radiomics.org/RO/0271> .
+
+<http://localhost/rdf/mm> a <http://www.radiomics.org/RO/MilliMeter> .
+
+<http://localhost/rdf/mm2> a <http://www.radiomics.org/RO/SquareMillimeter> .
+
+<http://localhost/rdf/mm3> a <http://www.radiomics.org/RO/CubicMillimeter> .
+
+<http://localhost/rdf/patient/interobs20> a <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960> .
+
+<http://localhost/rdf/scan/1.3.6.1.4.1.40744.29.220149681862890876314617261062366493582> a <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17999> .
+
+<http://localhost/rdf/scan/1.3.6.1.4.1.40744.29.29553301209905017705955087889306476403> a <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17999> .
